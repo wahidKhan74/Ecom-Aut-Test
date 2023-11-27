@@ -11,9 +11,4 @@ public class Main {
         assertEquals("ym eman si nahk",Calculation.reverseWord("my name is khan");  
     }  
 
-    @Test  
-    public void testReverseWord(){  
-        System.out.println("test case reverse word");  
-        assertEquals("ym eman si nahk",Calculation.reverseWord("my name is khan");  
-    }  
 }
